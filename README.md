@@ -116,6 +116,7 @@ $g_enable_email_notification = OFF;
 
 * <a href="http://www.programandoconcafe.com/2012/06/mantis-instalacion-del-mantis.html">MANTIS - INSTALACIÓN DEL MANTIS</a>
 
+* <a href="https://github.com/mantisbt/mantisbt">Official Github</a>
 
 
 
