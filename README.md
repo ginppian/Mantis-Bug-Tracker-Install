@@ -18,11 +18,11 @@ Mantis Bug Tracker
 ## Instalación
 
 <p align="justify">
-	1. Descargamos <i>Mantis<i> desde <a href="https://www.mantisbt.org/download.php">aquí</a>.
+	1. Descargamos <i>Mantis</i> desde <a href="https://www.mantisbt.org/download.php">aquí</a>.
 </p>
 
 <p align="justify">
-	2. Una vez descargado lo descomprimimos y arrastramos la carpeta a <i>C:\xampp\htdocs<i>.
+	2. Una vez descargado lo descomprimimos y arrastramos la carpeta a <i>C:\xampp\htdocs</i>.
 </p>
 
  
@@ -47,7 +47,7 @@ sudo mv mantisbt /var/www/html
 </p>
 
 <p align="justify">, 
-	Es muy simple, seleccionamos el tipo de BD que usamos, el hostname que por defecto es <i>localhost<i>. En mi experiencia:
+	Es muy simple, seleccionamos el tipo de BD que usamos, el hostname que por defecto es <i>localhost</i>. En mi experiencia:
 </p>
 
 ```
@@ -56,7 +56,7 @@ Admin Username (to create Database if required)
 ```
 
 <p align="justify">
-	Usan el mismo usuario y contraseña, que en mi caso es, user: <i>root<i> y pass: (sin contraseña). Ahora precionamos el boton *Install/Upgrade Database*.
+	Usan el mismo usuario y contraseña, que en mi caso es, user: <i>root</i> y pass: (sin contraseña). Ahora precionamos el boton *Install/Upgrade Database*.
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ Admin Username (to create Database if required)
 </p>
 
 <p align="justify">
-	Veremos varios mensajes de <i>GOOD<i>, hasta abajo precionamos *continue* para ir a la página de login.
+	Veremos varios mensajes de <i>GOOD</i>, hasta abajo precionamos *continue* para ir a la página de login.
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ Admin Username (to create Database if required)
 </p>
 
 <p align="justify">
-	El usuaro es: <b>administrator<b> y la clave es <b>root<b>
+	El usuaro es: <b>administrator</b> y la clave es <b>root</b>
 </p>
 
 <p align="justify">
