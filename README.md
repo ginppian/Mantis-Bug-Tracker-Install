@@ -96,20 +96,20 @@ $g_enable_email_notification = OFF;
 ```
 
 <p align="justify">
-	4. Ahora tenemos que borrar la carpeta <b>Admin<b> para que nadie más vuelva a hacer la configuración que acabamos de hacer.
+	4. Ahora tenemos que borrar la carpeta <b>Admin</b> para que nadie más vuelva a hacer la configuración que acabamos de hacer.
 </p>
 
 <p align="justify">
-	5. Entramos a <i>Mantis<i> con el usuario administrator, en la parte superior derecha nos vamos a mi cuenta, en el panel ponemos nuestra contraseña actual *root* y ponemos nuestra nueva contraseña.
+	5. Entramos a <i>Mantis</i> con el usuario administrator, en la parte superior derecha nos vamos a mi cuenta, en el panel ponemos nuestra contraseña actual *root* y ponemos nuestra nueva contraseña.
 </p>
 
 <p align="justify">
-	Nota: Si en nuestro servidor no se crea el archivo <i>config_inc.php<i> por que necesitamos permisos podemos crearlo nos otros y copiar el código de arriba y funcionará perfectamente.
+	Nota: Si en nuestro servidor no se crea el archivo <i>config_inc.php</i> por que necesitamos permisos podemos crearlo nos otros y copiar el código de arriba y funcionará perfectamente.
 </p>
 
 
 <p align="justify">
-	Ahora sólo queda *Invitar usuarios*, <i>Crear un proyecto<i> y llevar nuestros bugs. 
+	Ahora sólo queda *Invitar usuarios*, <i>Crear un proyecto</i> y llevar nuestros bugs. 
 </p>
 
 ## Fuentes
