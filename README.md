@@ -76,7 +76,7 @@ Admin Username (to create Database if required)
 </p>
 
 <p align="justify">
-	Lo siguiente es configurar el idioma, desabilitar que nos notifique por correo para pedirnos una nueva confirmación cuando creamos un nuevo usuario, configurar el idioma, y la zona horaria. Todo eso lo editamos en el archivo: **mantisbt/config/config_inc.php**. Se vería algo así:
+	Lo siguiente es configurar el idioma, desabilitar que nos notifique por correo para pedirnos una nueva confirmación cuando creamos un nuevo usuario, configurar el idioma, y la zona horaria. Todo eso lo editamos en el archivo: <b>mantisbt/config/config_inc.php</b>. Se vería algo así:
 </p>
 
 ```
