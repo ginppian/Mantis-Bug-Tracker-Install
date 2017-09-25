@@ -43,7 +43,7 @@ sudo mv mantisbt /var/www/html
 </p>
 
 <p align="center">
-	<img src="" width="" height="">
+	<img src="https://github.com/ginppian/Mantis-Bug-Tracker-Install/blob/master/imgs/img2.png" width="682" height="350">
 </p>
 
 <p align="justify">, 
@@ -60,7 +60,7 @@ Admin Username (to create Database if required)
 </p>
 
 <p align="center">
-	<img src="" width="" height="">
+	<img src="https://github.com/ginppian/Mantis-Bug-Tracker-Install/blob/master/imgs/img3.png" width="682" height="350">
 </p>
 
 <p align="justify">
@@ -68,7 +68,7 @@ Admin Username (to create Database if required)
 </p>
 
 <p align="center">
-	<img src="" width="" height="">
+	<img src="https://github.com/ginppian/Mantis-Bug-Tracker-Install/blob/master/imgs/img4.png" width="682" height="350">
 </p>
 
 <p align="justify">
