@@ -109,7 +109,7 @@ $g_enable_email_notification = OFF;
 
 
 <p align="justify">
-	Ahora sólo queda *Invitar usuarios*, <i>Crear un proyecto</i> y llevar nuestros bugs. 
+	Ahora sólo queda <i>Invitar usuarios</i>, <i>Crear un proyecto</i> y llevar nuestros bugs. 
 </p>
 
 ## Fuentes
